@@ -1,7 +1,10 @@
 # DN-StreetFood
-PROJECT NAME: Da Nang street food
-Creator: Do Cao Tu
-Start date: 13/09/2017
+PROJECT NAME: Da Nang street food.
+
+Creator: Do Cao Tu.
+
+Start date: 13/09/2017.
+
 Languages:
 - Frontend: HTML, CSS, Javascript, Boostrap library
 - Backend:PHP (MVC).
