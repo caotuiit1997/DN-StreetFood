@@ -6,8 +6,11 @@ Languages:
 - Frontend: HTML, CSS, Javascript, Boostrap library
 - Backend:PHP (MVC).
 - Database: MySQL and PHPMyAdmin.
+----------------------------------------------------
 Status: Inprogress.
+---------------------------------------------------
 Project description:
 - A website for user who is able to view, order food (street food) - login or without login.
 - For chieves or restaurants, they are able to push their food inton this website to advertise their dishes.
+-------------------------------------------------
 To run this project on local: http://localhost/DN-StreetFood or admin http://localhost/DN-StreetFood/dashboard
