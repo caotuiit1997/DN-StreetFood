@@ -17,3 +17,5 @@ Project description:
 - For chieves or restaurants, they are able to put their food into this website to advertise their dishes.
 -------------------------------------------------
 To run this project on local: http://localhost/DN-StreetFood or admin http://localhost/DN-StreetFood/dashboard
+-------------------------------------------------
+If you want to view or pull source to your local, please check Develop branch
